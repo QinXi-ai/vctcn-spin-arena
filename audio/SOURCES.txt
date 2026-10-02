@@ -1,0 +1,6 @@
+VALORANT kill sounds, stages 1–5
+Source: https://github.com/rootmapavri/amxmodx-valorant-kill-sounds
+Files: alazul/kill1.wav through alazul/kill5.wav
+The source repository identifies these recordings as Valorant kill sounds.
+Game audio belongs to its respective rights holders, including Riot Games.
+This page is an unofficial fan experiment and is not affiliated with Riot Games.
